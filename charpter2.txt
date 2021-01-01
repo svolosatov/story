@@ -1,4 +1,7 @@
 this is a text sent to charpter2.txt
 bla bla blaHHHHHHHHHR RRR Rr
 this is a last modification the file charpte2.txt
-NNNNNNNNNNN
+
+changes for the file charpter2.txt for the new branch alien-plot
+
+
