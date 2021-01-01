@@ -1,1 +1,1 @@
-первая строка в файл charpter3.txt
+changes in charpeter3 
